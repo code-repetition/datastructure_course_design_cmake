@@ -1,0 +1,8 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="E:\Users\admin\我的软件工程\dataStructure\课程设计纪念\datastructure_course_design\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+  </ItemGroup>
+</Project>

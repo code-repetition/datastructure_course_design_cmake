@@ -1,0 +1,28 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <ClCompile Include="E:\Users\admin\我的软件工程\dataStructure\课程设计纪念\datastructure_course_design\src\Student.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Users\admin\我的软件工程\dataStructure\课程设计纪念\datastructure_course_design\src\fileHandle.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Users\admin\我的软件工程\dataStructure\课程设计纪念\datastructure_course_design\src\main.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Users\admin\我的软件工程\dataStructure\课程设计纪念\datastructure_course_design\src\strMatching.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+    <ClCompile Include="E:\Users\admin\我的软件工程\dataStructure\课程设计纪念\datastructure_course_design\src\userReaction.cpp">
+      <Filter>Source Files</Filter>
+    </ClCompile>
+  </ItemGroup>
+  <ItemGroup>
+    <CustomBuild Include="E:\Users\admin\我的软件工程\dataStructure\课程设计纪念\datastructure_course_design\CMakeLists.txt" />
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="Source Files">
+      <UniqueIdentifier>{144946D9-9801-3E1A-8820-1B684296A594}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>

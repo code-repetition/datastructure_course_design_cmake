@@ -1,0 +1,10 @@
+^E:\USERS\ADMIN\我的软件工程\DATASTRUCTURE\课程设计纪念\DATASTRUCTURE_COURSE_DESIGN\CMAKELISTS.TXT
+setlocal
+"D:\Microsoft Visual Studio\2022\Community\Common7\IDE\CommonExtensions\Microsoft\CMake\CMake\bin\cmake.exe" -SE:/Users/admin/我的软件工程/dataStructure/课程设计纪念/datastructure_course_design -BE:/Users/admin/我的软件工程/dataStructure/课程设计纪念/datastructure_course_design/build --check-stamp-file E:/Users/admin/我的软件工程/dataStructure/课程设计纪念/datastructure_course_design/build/CMakeFiles/generate.stamp
+if %errorlevel% neq 0 goto :cmEnd
+:cmEnd
+endlocal & call :cmErrorLevel %errorlevel% & goto :cmDone
+:cmErrorLevel
+exit /b %1
+:cmDone
+if %errorlevel% neq 0 goto :VCEnd

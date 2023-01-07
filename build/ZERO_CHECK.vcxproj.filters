@@ -1,0 +1,13 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Project ToolsVersion="17.0" xmlns="http://schemas.microsoft.com/developer/msbuild/2003">
+  <ItemGroup>
+    <CustomBuild Include="E:\Users\admin\我的软件工程\dataStructure\课程设计纪念\datastructure_course_design\build\CMakeFiles\7e86eac4becfc6d39d9cd1717e21a28a\generate.stamp.rule">
+      <Filter>CMake Rules</Filter>
+    </CustomBuild>
+  </ItemGroup>
+  <ItemGroup>
+    <Filter Include="CMake Rules">
+      <UniqueIdentifier>{FB3495B2-6D02-344A-BDC0-8E71912B8A90}</UniqueIdentifier>
+    </Filter>
+  </ItemGroup>
+</Project>
